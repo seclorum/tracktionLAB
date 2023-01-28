@@ -1,5 +1,7 @@
 # tracktionLAB
-A repo to serve as the lab for gaining an understanding of the Tracktion framework.
+
+A repo to serve as a development-oriented lab for gaining an understanding of 
+the Tracktion and JUCE frameworks.
 
 # links:
 
@@ -32,5 +34,11 @@ A repo to serve as the lab for gaining an understanding of the Tracktion framewo
 			https://austrian.audio/adrian-hall-using-the-polardesigner/
    	 		https://austrian.audio/adrian-hall-praises-polardesigner-plugin/
 
+# tracktion edit files:
 
+	https://forum.juce.com/t/is-it-still-possible-to-open-a-tracktionedit-created-with-waveform/49598
+	https://www.kvraudio.com/forum/viewtopic.php?t=560743
+	https://github.com/atsushieno/ntracktive
+	https://github.com/atsushieno/augene-ng
 
+	
