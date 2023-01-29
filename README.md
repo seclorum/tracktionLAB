@@ -16,7 +16,7 @@ the Tracktion and JUCE frameworks.
 			https://juce.com
 			
 	Polar Designer - Download & Samples
-			https://austrian.audio/polardesigner/
+			https://austrian.audio/support/ (then scroll down, select Polar Designer & find "Pattern Presets & Samples" zip) 
 
 	
 # plugins:
