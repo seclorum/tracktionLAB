@@ -14,6 +14,9 @@ the Tracktion and JUCE frameworks.
 
 	juce
 			https://juce.com
+			
+	Polar Designer - Download & Samples
+			https://austrian.audio/polardesigner/
 
 	
 # plugins:
